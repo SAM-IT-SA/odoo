@@ -28,7 +28,7 @@ python-dateutil
 python-ldap
 python-openid
 pytz
-pyusb
+pyusb == 1.0.0b2
 qrcode
 reportlab
 requests
